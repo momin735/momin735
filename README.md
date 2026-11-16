@@ -1,6 +1,7 @@
+![Machine Learner](https://scontent.fdac23-1.fna.fbcdn.net/v/t39.30808-6/562359602_1402454328547979_8991461266990547581_n.jpg?stp=dst-jpg_tt6&cstp=mx1935x2048&ctp=s960x960&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEvppnJX3ZcM92hPjVnPGJ4ya9dDEHcH4jJr10MQdwfiEBpdiLONFw9etyX77FB3_aBKl3UMVsvv_qI_onRLRlp&_nc_ohc=Ddl_YSSQ3yQQ7kNvwFtfzP5&_nc_oc=Adr3gs6T5ZjwL_R2ytNzBzX5S0d5M3RD2IK0377_jAfvogQESbZcVsEyrpJAt8YlCSc&_nc_zt=23&_nc_ht=scontent.fdac23-1.fna&_nc_gid=1NWPY3wKlAlVq1MOuaAJgw&_nc_ss=7b2a8&oh=00_AQQyJRG-v4NQrTfE1v8Dj7yInnVV7gpbKQtbKz2OQScNoA&oe=6B0102B0)
 ### Hi there 👋, I'm Mohammad Momin
 #### Machine Learner
-![Machine Learner](https://scontent.fdac23-1.fna.fbcdn.net/v/t39.30808-6/562359602_1402454328547979_8991461266990547581_n.jpg?stp=dst-jpg_tt6&cstp=mx1935x2048&ctp=s960x960&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEvppnJX3ZcM92hPjVnPGJ4ya9dDEHcH4jJr10MQdwfiEBpdiLONFw9etyX77FB3_aBKl3UMVsvv_qI_onRLRlp&_nc_ohc=Ddl_YSSQ3yQQ7kNvwFtfzP5&_nc_oc=Adr3gs6T5ZjwL_R2ytNzBzX5S0d5M3RD2IK0377_jAfvogQESbZcVsEyrpJAt8YlCSc&_nc_zt=23&_nc_ht=scontent.fdac23-1.fna&_nc_gid=1NWPY3wKlAlVq1MOuaAJgw&_nc_ss=7b2a8&oh=00_AQQyJRG-v4NQrTfE1v8Dj7yInnVV7gpbKQtbKz2OQScNoA&oe=6B0102B0)
+
 
 ## 👋 About Me
 
